@@ -4,15 +4,15 @@
 #
 
 # 1. Input 
-x1 = int(input('Type x1:')) 
-x2 = int(input('Type x2:')) 
+x1 = input('Type x1:') 
+x2 = input('Type x2:') 
 op = input('Operator: ')
 
 # 2. Process
 if op == '+':
-    sum = x1+x2
+    sum = int(x1)+int(x2)
 elif op == '-':
-    sum = x1-x2
+    sum = int(x1)-int(x2)
 
 # 3. Output
 print(f'Result : {sum}')

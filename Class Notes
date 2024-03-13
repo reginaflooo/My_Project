@@ -1,0 +1,22 @@
+# Python - 13/03
+
+##### To Do when using school's comp:
+1. Log in to Git, and Teams 
+2. Open terminal and download git by enterring once and typing 'git' and enter
+3. Open VSC and open repository through git 
+4. If a problem of configuration occurs when pushing to the github, 
+5. When using python on VSC, download the python extension as well
+
+The template for programming with Python: 
+1. Input 
+2. Process
+3. Output 
+
+### Using Python Language in VSC
+To use the language (or any language) put the code information behind the file name. For python: .py
+Ex: filename.py
+
+In Python, we use FUNCTIONS (or commands) to execute an action 
+
+<print('Hello World')>
+The <print> function

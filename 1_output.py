@@ -6,9 +6,14 @@
 # 1. Input 
 x1 = int(input('Type x1:')) 
 x2 = int(input('Type x2:')) 
+op = input('Operator: ')
 
 # 2. Process
-sum = x1+x2
+if op == '+':
+    sum = x1+x2
+elif op == '-':
+    sum = x1-x2
+
 
 # 3. Output
-print(f'Sum : {sum}')
+print(f'Result : {sum}')

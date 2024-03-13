@@ -33,3 +33,5 @@ In Python, we use FUNCTIONS (or commands) to execute an action
 <print(f'This is the data in variable x: {x}')>
 
 the use of 'f' in the print function is to format your string to be readable. The data inside ' ' is of string format with {} being variables.
+
+end

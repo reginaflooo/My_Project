@@ -14,6 +14,5 @@ if op == '+':
 elif op == '-':
     sum = x1-x2
 
-
 # 3. Output
 print(f'Result : {sum}')
